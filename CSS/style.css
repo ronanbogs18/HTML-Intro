@@ -1,0 +1,12 @@
+h2 {
+    background-color:blanchedalmond ;
+    color: blue;
+    opacity: 40%;
+}
+h3 {
+    color: tomato;
+}
+table, th, td {
+    border: 7px solid black;
+    color: firebrick;
+}
